@@ -1,0 +1,4 @@
+hello this is the first file I have reated using git
+This is the beginning
+small text file
+
